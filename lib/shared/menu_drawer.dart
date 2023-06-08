@@ -30,7 +30,7 @@ class MenuDrawer extends StatelessWidget {
       menuItems.add(ListTile(
         title: Text(
           element,
-          style: TextStyle(color: Colors.white, fontSize: 28),
+          style: TextStyle(fontSize: 28),
         ),
       ));
     });
